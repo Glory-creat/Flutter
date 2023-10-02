@@ -8,4 +8,4 @@ Today, I continued my journey of learning Dart, and I focused on understanding t
 Here are the key points I covered:
 1. I learnt that Dart has various data types, including int, double, String, and bool, and I can use the var keyword for type inference.
 2. I used the 'print' function to output information to the console, which is essential for debugging and displaying results.
-3. Comments in Dart can be added using `//` for single-line comments and `/* */` for multi-line comment. Plus, Comments are useful for documenting code.
+3. Comments in Dart can be added using '//' for single-line comments and '/* */' for multi-line comment. Plus, Comments are useful for documenting code.
