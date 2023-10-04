@@ -27,7 +27,7 @@ void main() {
   // Example 1
   var otherName = 'Ibukun'; //Dart infers the type 'name' as a 'string' 
   /*
-   // 'otherName' is the keyword. 'Ibukun'= variable name
+   // 'otherName' is the keyword and 'Ibukun' is the variable name
    // variable names are case sensitive
   */
 
@@ -42,4 +42,13 @@ void main() {
   print('Other names:$otherName');
   print('User age:$age');
   print('Student:$studentStatus');
+
+  // ?
+  var name = 'Glory';
+  var date = 'day';
+  var number = 1;
+  var height = 6.2;
+  var isMood = 'True';
+
+  print('My name is $name and is $date $number learning challenge. I am $height feet tall and I am happy: $isMood :)');
 }
