@@ -17,4 +17,4 @@ Here are some of the areas I covered:
 1. I learnt about constant variables and final variables.
 2. I learnt that the final variable is like a constant, but it's value is determined at runtime.
 3. 'const' variables are more efficient in terms of memory usage because their values are known at compile-time, while 'final' variables may have more flexibility but might consume slightly more memory.
-3. I learnt that mutable variables use the keyword 'var' or declaration as a prefix. Immutable variables use the key word final. Link to day two code practice will be posted in day 3.
+4. I learnt that mutable variables use the keyword 'var' or declaration as a prefix. Immutable variables use the key word final. Link to day two code practice will be posted in day 3.
