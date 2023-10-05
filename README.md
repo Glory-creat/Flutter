@@ -24,3 +24,15 @@ Today, I continued my journey of learning Dart, and I focused on understanding t
 Here are some of the areas I covered:
 1. I focused on understanding the constant and final variables I started learning in day 2.
 2. I started learning about Null safety. Link to day two code practice will be posted in day 4.
+
+# Day 4 dart learning (Variables and Types 4/4)
+Today, I continued my journey of learning Dart, and I did a little practice of what I have learnt so far from day one to 3.
+Here are some of the areas I covered:
+1. I learnt how to use the backslash in dart for escaping characters "\"
+A quick example;
+
+var object = '(\'it\'s correct\')'; //The purpose of the backslash to escape single quotes
+  // var object2 = "it's correct"; //Using double quote does not affect escaping
+  print('$object is correct'); //where "\" serves as an escape character
+
+2. I learnt about Null safety; Nullable and Non-nullable types, Nullability annotations, and late variables.
