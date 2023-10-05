@@ -17,4 +17,10 @@ Here are some of the areas I covered:
 1. I learnt about constant variables and final variables.
 2. I learnt that the final variable is like a constant, but it's value is determined at runtime.
 3. 'const' variables are more efficient in terms of memory usage because their values are known at compile-time, while 'final' variables may have more flexibility but might consume slightly more memory.
-4. I learnt that mutable variables use the keyword 'var' or declaration as a prefix. Immutable variables use the key word final. Link to day two code practice will be posted in day 3.
+4. I learnt that mutable variables use the keyword 'var' or declaration as a prefix. Immutable variables use the key word final. <Days/Day 2.dart>
+
+# Day 3 dart learning(Variables and Types 3/4)
+Today, I continued my journey of learning Dart, and I focused on understanding the constant and final variables.
+Here are some of the areas I covered:
+1. I focused on understanding the constant and final variables I started learning in day 2.
+2. I started learning about Null safety. Link to day two code practice will be posted in day 4.
