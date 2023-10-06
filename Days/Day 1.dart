@@ -15,7 +15,7 @@ void main() {
   //double height = 6.1;   // A double (decimal) variable
 
   // Example 3
-  // String Firstname = "John"; // A string variable
+  // String Firstname = "John"; // A string variable (Represents a sequence of characters)
   //  print('$Firstname');
 
   // Example 4
@@ -25,17 +25,17 @@ void main() {
   //  Here are some examples:
 
   // Example 1
-  var otherName = 'Ibukun'; //Dart infers the type 'name' as a 'string' 
+  var otherName = 'Ibukun'; //Dart infers the type 'otherName' as a 'string' 
   /*
    // 'otherName' is the keyword and 'Ibukun' is the variable name
    // variable names are case sensitive
   */
 
   // Example 2
-  var age = '001'; //Dart infers the type 'name' as an 'integer'
+  var age = '001'; //Dart infers the variable name 'age' as an 'integer'
 
   // Example 3
-  var studentStatus = 'True'; //Dart infers the type 'student' as a 'boolean'
+  var studentStatus = 'True'; //Dart infers the type 'studentStatus' as a 'boolean'
   // 'var' is the keyword. 'studentStatus'= variable name
 
   // Printing the variables
