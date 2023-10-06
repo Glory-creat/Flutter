@@ -1,11 +1,11 @@
 // Dart code for day 1: Getting started with basic syntax day 1/3
 void main() {
-  /*
-   // variables
+ // variables
    // Declaring a variable; (To declare a variable in dart, you use a keyword followed by the
-   // variable's name).
-  */ 
-
+   // variable name).
+   //  Example: 
+   //  var variableName = 'value';
+  //
   //Dart supports several types of variables. Some examples are:
 
   // Example 1 
