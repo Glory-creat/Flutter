@@ -35,4 +35,4 @@ var object = '(\'it\'s correct\')'; //The purpose of the backslash to escape sin
   // var object2 = "it's correct"; //Using double quote does not affect escaping
   print('$object is correct'); //where "\" serves as an escape character
 
-2. 
+2. I learnt
