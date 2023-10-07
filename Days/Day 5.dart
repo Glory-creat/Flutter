@@ -7,9 +7,30 @@ void main() {
     List<String> names = ['Glory, Ibukun, Ebun, Ebun'];
     print('$names');
 
+    // var Names = ['Glory, Ibukun, Ebun, Ebun'];
+    // print('$Names');
+
     // Set //Set is an unordered collection of elements.
     // Set can be created using the 'Set' class or literal. //Sets do not allow to duplicate value.
     Set<String> numbers = {'one, two, three, three'};
     print('$numbers');
-    
+
+    // Map //Key/Value pairs?
+    Map<String, int> unrelated = {
+      "Score":30,
+      "Age": 32 
+      };
+
+    //   var Unrelated = {
+    //   "Score":30,
+    //   "Age": 32 
+    //   };
+    //   print('$Unrelated.value');
+    // print('$Unrelated.key');
+    // // print('$Unrelated');
+
+    print('$unrelated.value');
+    print('$unrelated.key');
+    // print('$unrelated');
+
 }

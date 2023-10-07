@@ -35,3 +35,9 @@ A quick example;
   print('$object is correct'); //where "\" serves as an escape character -->
 
 2. I learnt about Null safety; Nullable and Non-nullable types, Nullability annotations, and late variables.
+
+# Day 5 dart learning (Collections and Null safety 1/2)
+Today, I continued my journey of learning Dart, and I focused on learning about collections and Null safety.
+Here are some of the areas I covered:
+1. I learnt that collections are used to manage and store multiple values.
+2. I learnt about the collection types in dart; 'List','Set' and 'Map'.
