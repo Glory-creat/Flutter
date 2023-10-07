@@ -40,4 +40,5 @@ A quick example;
 Today, I continued my journey of learning Dart, and I focused on learning about collections and Null safety.
 Here are some of the areas I covered:
 1. I learnt that collections are used to manage and store multiple values.
-2. I learnt about the collection types in dart; 'List','Set' and 'Map'.
+2. I learnt about the collection types in dart; 'List','Set' and 'Map'. 
+Code Practice<Days/Day 5.dart>
