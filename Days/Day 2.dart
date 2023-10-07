@@ -7,6 +7,7 @@ void main() {
   // final cityName = 'Lagos';
   final String cityName = 'Lagos';  // with type 'string' annotation
   // cityName 'Ogun'; // You cannot reassign final variable
+  
 
   // Constant variable
   // Here is an example of how to create a constant variable:
