@@ -34,3 +34,5 @@ A quick example;
 <!-- var object = '(\'it\'s correct\')'; //The purpose of the backslash to escape single quotes
   // var object2 = "it's correct"; //Using double quote does not affect escaping
   print('$object is correct'); //where "\" serves as an escape character -->
+
+2. I learnt about Null safety; Nullable and Non-nullable types, Nullability annotations, and late variables.
