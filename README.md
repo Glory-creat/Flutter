@@ -43,4 +43,4 @@ Here are some of the areas I covered:
 2. I learnt about the collection types in dart; 'List','Set' and 'Map'. 
 Code Practice<Days/Day 5.dart>
 
-# Day 6 dart learning (Collections and Null Safety 2/2)
+# Day 6 
