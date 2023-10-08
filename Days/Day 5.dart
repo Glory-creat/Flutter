@@ -15,10 +15,15 @@ void main() {
     // print('$Names');
 
     // Set 
-    ////Set is an unordered collection of elements.
-    // Set can be created using the 'Set' class or literal. //Sets do not allow to duplicate value.
-    Set<String> numbers = {'one, two, three, three'};
+    //Set is an unordered collection of elements.
+    // Set can be created using the 'Set' class or literal. 
+    //Sets do not allow to duplicate value.
+
+    Set<String> numbers = {'one, two, three'};
     print('$numbers');
+    Set<int> Number_s = {1, 2, 3,};
+    print ('$Number_s');
+    // Set<int> Number2 = {1, 2, 3, 3}; // Sets do not allow to  duplicate values
 
     // Map 
     //Key/Value pairs.
