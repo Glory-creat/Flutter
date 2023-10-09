@@ -44,3 +44,4 @@ Here are some of the areas I covered:
 Code Practice<Days/Day 5.dart>
 
 # Day 6 
+On this day as I continued my journey of learning Dart,I focused writing practice code.
