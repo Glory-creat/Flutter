@@ -36,7 +36,7 @@ A quick example;
 
 2. I learnt about Null safety; Nullable and Non-nullable types, Nullability annotations, and late variables.
 
-# Day 5 dart learning (Collections and Null safety 1/2)
+# Day 5 dart learning (Collections and Null safety 1/3)
 Today, I continued my journey of learning Dart, and I focused on learning about collections and Null safety.
 Here are some of the areas I covered:
 1. I learnt that collections are used to manage and store multiple values.
@@ -45,3 +45,12 @@ Code Practice<Days/Day 5.dart>
 
 # Day 6 
 On this day as I continued my journey of learning Dart,I focused writing practice code.
+
+# Day 7
+__ __
+
+# Day 8 (Collections 2/3)
+Today, I continued my journey of learning Dart, and I focused on learning more about collections.
+Here are some of the areas I covered:
+1. I learnt about some of the functions and properties of the types of collections in dart
+Code practice <Days/Day 8.dart>
