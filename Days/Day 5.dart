@@ -31,7 +31,7 @@ void main() {
     Map<String, int> unrelated = {
       "Score":30, // where 'Score' is the key and '30' is the associated value
       "Age": 32 
-      };
+    };
 
     //   var Unrelated = {
     //   "Score":30,

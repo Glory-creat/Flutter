@@ -1,4 +1,4 @@
-// void main() {
+void main() {
   
 //   const String Text = 'Hi';
 //   print('$Text');
@@ -20,4 +20,4 @@
 //   This statement is short too but I can't use lorem ipsum''';
 
 //   print('${$object3}'); //Variable name can only "$", "letters", "numbers" and "_"
-// }
+}
