@@ -23,13 +23,16 @@ void main() {
   // Maps acn be declared in two ways
 
   // Using map literals
-  Map<String,String> identifier = {
-    'Username': 'Glory',
-    'Password': 'glory_map'
-  };
-  identifier.forEach((key, value) {
-    print('$key: $value');
-  });
+  var score = {'Score': 30, 'Age':20, 'Year':2023};
+  print(score);
+
+  // Map<String,String> identifier = {
+  //   'Username': 'Glory',
+  //   'Password': 'glory_map'
+  // };
+  // identifier.forEach((key, value) {
+  //   print('$key: $value');
+  // });
 
   //Using constructors
   var One_example = 'Map';
