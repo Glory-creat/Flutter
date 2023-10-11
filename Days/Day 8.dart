@@ -1,3 +1,4 @@
+import 'dart:collection';
 void main() {
   //Collections in dart cont...
 
@@ -33,13 +34,20 @@ void main() {
   //Using constructors
   var One_example = 'Map';
   print(One_example);
-  
-  Map<String, String> Identifier = {
-    'Username': 'Ibukun',
-    'Other name': 'Cynthia',
-    };
-   Identifier.forEach((key, value){
-    print('$key: $value');
-   });
 
+  Map<String, String> Identifier = {
+     'Username': 'Ibukun',
+     'Other name': 'Cynthia',
+    };
+    Identifier.forEach((key, value){
+     print('$key: $value');
+   });
+   
+    Queue<int> numQue = Queue<int>(); //[100,200,300];
+   numQue.addAll([100,200,300]);  
+   Iterator i= numQue.iterator; 
+   
+   while(i.moveNext()) { 
+      print(i.current); 
+   };
 }
