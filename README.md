@@ -47,10 +47,15 @@ Code Practice<Days/Day 5.dart>
 On this day as I continued my journey of learning Dart,I focused writing practice code.
 
 # Day 7
-__ __
+__ __<Days/Day 7.dart>
 
 # Day 8 (Collections 2/3)
 Today, I continued my journey of learning Dart, and I focused on learning more about collections.
 Here are some of the areas I covered:
-1. I learnt about some of the functions and properties of the types of collections in dart
+1. I learned about some of the functions and properties of the types of collections in dart
 Code practice <Days/Day 8.dart>
+
+# Day 9 (Collections 3/3)
+Today, I continued my journey of learning Dart, and I focused on learning about 'Queue'.
+Here are some of the areas I covered:
+1. I learned about the collection 'Queue' <Days/Day 9.dart>
