@@ -14,4 +14,19 @@ void main() {
       print(List);
     }
   }
+
+  // Second Practice
+
+  //Task: Create a Dart program that calculates the average of a list of numbers.
+  
+  List<int> numbers = [5, 10, 15, 20]; //Declare a list //
+  int sum = 0;       //Initialize the sum variable to 0
+
+  for(int number in numbers) { sum += number;
+  } //Add each other to sum
+
+  double average = sum / numbers.length; //Average 
+
+  print('The sum is: $sum');
+  print ('The average is: $average');
 } 
