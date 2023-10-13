@@ -59,3 +59,9 @@ Code practice <Days/Day 8.dart>
 Today, I continued my journey of learning Dart, and I focused on learning about 'Queue'.
 Here are some of the areas I covered:
 1. I learned about the collection 'Queue' <Days/Day 9.dart>
+
+# Day 10 (Operations in dart
+Today, I continued my journey of learning Dart, and I focused on learning about the operations in dart.
+Here are some of the areas I covered:
+1. I learned about the operations in dart, the types of operations in that and their functions.
+Code practice <Days/Day 10.dart>
