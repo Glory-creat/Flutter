@@ -18,7 +18,7 @@ void main() {
   // Second Practice
 
   //Task: Create a Dart program that calculates the average of a list of numbers.
-  
+
   List<int> numbers = [5, 10, 15, 20]; //Declare a list //
   int sum = 0;       //Initialize the sum variable to 0
 
