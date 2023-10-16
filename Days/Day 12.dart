@@ -34,4 +34,14 @@ void main () {
       'somekey1' : 30,
   };
   example.removeWhere((key, value) => value >= 30);
+
+  // <= //Less than or equal to
+  List<int> Example = [40,90,95]; //Growable list
+  int targetVal = 50;
+
+  for (int List in Example) {
+    if (List <= targetVal) {
+      print(List);
+    }
+  }
 }
