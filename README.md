@@ -70,3 +70,8 @@ Code practice <Days/Day 10.dart>
 
 # Day 12 (Operations in dart)
 Today, I continued my journey of learning Dart, and I still focused on learning about the operations in dart.
+
+# Day 13 (Loops in dart)
+Today, I continued my journey of learning Dart, and I still focused on learning about loops in Dart.
+Here are some of the areas I covered:
+1. 
