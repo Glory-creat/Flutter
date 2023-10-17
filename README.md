@@ -67,3 +67,6 @@ Here are some of the areas I covered:
 Code practice <Days/Day 10.dart>
 
 # Day 11 (---) 
+
+# Day 12 (Operations in dart)
+Today, I continued my journey of learning Dart, and I still focused on learning about the operations in dart.

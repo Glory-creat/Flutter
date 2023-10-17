@@ -45,6 +45,9 @@ void main() {
 
 
   //Do-While loop
+  // The do-while loop is similar to the while loop, but it guarantees 
+  //that the loop body will execute at least once, even if the condition is initially false. 
+  
   String Text = 'two';
   int i = 0;
 
