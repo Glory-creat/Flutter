@@ -29,4 +29,27 @@ void main() {
     }
     x++;
   }
+
+  //'While' loop //The while loop is used when you don't know the 
+  //number of iterations beforehand, but you have a condition that should be met for the loop to continue. 
+  
+  //Here's an example:
+
+  String text = 'two';
+  int loop = 0; // initialize an integer variable index to 0. This variable will be used to access characters in the string.
+
+  while(loop < text.length) {
+    print(text[loop]);
+    loop++;
+  }
+
+
+  //Do-While loop
+  String Text = 'two';
+  int i = 0;
+
+  do {
+    print(Text);
+    i++;
+  } while (i > 8);
 }
