@@ -1,3 +1,4 @@
+import 'dart:collection';
 void main () {
   // Operators in dart
 
@@ -42,6 +43,17 @@ void main () {
   for (int List in Example) {
     if (List <= targetVal) {
       print(List);
+    }
+  }
+
+
+  // '==' Equality 
+  Queue<double> boool= Queue.from([3.2, 1.5, 9.2]);
+  double Element = 9.2;
+
+  for (double element in boool) {
+    if (element == Element) {
+      print(element);
     }
   }
 }
