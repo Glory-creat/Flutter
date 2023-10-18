@@ -73,5 +73,8 @@ Today, I continued my journey of learning Dart, and I still focused on learning 
 
 # Day 13 (Loops in dart)
 Today, I continued my journey of learning Dart, and I still focused on learning about loops in Dart.
+
+# Day 14 
+Today, I continued my journey of learning Dart, and I focused on collecting a few practice questions fron the internet(from resourses online)
 Here are some of the areas I covered:
-1. 
+1. For Day 15/16, I plan to practice all that I have covered from day one with some of the task practice I found online. As I do so, I hope to learn new things too.
