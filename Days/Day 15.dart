@@ -21,13 +21,22 @@ void main() {
 
 
   // 2. double 
-  const decimal = <double> [45];
-  final decimal1 = <double> [80];
-
+  const decimal = <double>[4.5];
+  final decimal1 = <double> [8.0];
   
+  // Printing variables
+  print(decimal);
+  print(decimal1);
+
 
   // 3. String
-  // String _character = 'This is day 15 is\'nt it?';
+  Map<String,String> employees = Map(); {
+    employees ['Office1'] = 'Kunle, Titi';
+    employees ['Office2'] = 'Dara, Willams';
+    employees ['Office3'] = 'Wale, Tosin';
+  }; 
+  employees.addAll(employees);
+  print('employees');
 
   // 4. bool
   bool isTrue = true;
