@@ -79,7 +79,12 @@ Today, I continued my journey of learning Dart, and I focused on collecting a fe
 Here are some of the areas I covered:
 1. For Day 15/16, I plan to practice all that I have covered from day one with some of the task practice I found online. As I do so, I hope to learn new things too.
 
-# Day 15 (Decision making in dart)
+# Day 15 (Decision making in dart 1/3)
 Today, I continued my journey of learning Dart, and I focused on learning decision making in dart. Day 15 did not go as planned because most of the practice I planned to work on covered some topics I have not touched.
 Here are some of the areas I covered:
-1. Today, Day 15 I learnt about decision in dart
+1. Today, Day 15 I learned about decision in dart
+
+# Day 16 (Decision making in dart 2/3)
+Today, I continued my journey of learning Dart, and I focused on learning decision-making in Dart.
+Here are some of the areas I covered:
+1. Today, I learned about the 'if' statement. <Days/Day 16.dart>
