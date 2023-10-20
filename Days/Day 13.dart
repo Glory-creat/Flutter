@@ -3,6 +3,10 @@ void main() {
   // A loop represents a set of instructions that must be repeated. In a loop’s context, a repetition 
   // is termed as an iteration.
 
+  //Loops in dart are categorised as definite and indrfinite
+  //Definite loop- 'for'
+  //Indefinite loop- 'while', 'do-while' loop.
+
   // A loop in Dart is a control structure that 
   // allows you to repeatedly execute a block of 
   // code as long as a certain condition is met 
@@ -47,6 +51,7 @@ void main() {
   //Do-While loop
   // The do-while loop is similar to the while loop, but it guarantees 
   //that the loop body will execute at least once, even if the condition is initially false. 
+  //Code is executed first before checking the condition
   
   String Text = 'two';
   int i = 0;
