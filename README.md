@@ -88,3 +88,10 @@ Here are some of the areas I covered:
 Today, I continued my journey of learning Dart, and I focused on learning decision-making in Dart.
 Here are some of the areas I covered:
 1. Today, I learned about the 'if' statement. <Days/Day 16.dart>
+
+# Day 17 (if, if else statement 3/3)
+Today, I continued my journey of learning Dart, and I focused on learning decision-making(if, if else statement in dart) in Dart.
+Here are some of the areas I covered:
+1. Today, I learned more about the 'if' statement and the 'if else' statement. 
+
+2. Code practice <Days/Day 17.dart>
