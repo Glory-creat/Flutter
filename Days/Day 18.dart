@@ -5,4 +5,7 @@ void main() {
   // 'null-aware' conditional expression.
 
   // 'if-else' conditional expression
-}
+  // condition? expr1 : expr2;
+  int value = 12; 
+    value == 12? print("Correct value") : print( "wrong input");
+  }
