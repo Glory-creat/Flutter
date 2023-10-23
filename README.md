@@ -95,3 +95,9 @@ Here are some of the areas I covered:
 1. Today, I learned more about the 'if' statement and the 'if else' statement. 
 
 2. Code practice <Days/Day 17.dart>
+
+# Day 18 (Conditional expressions)
+Today, I continued my journey of learning Dart, and I focused on learning conditional expressions in Dart.
+Here are some of the areas I covered:
+1. Today, I learned more about the 'if-else' conditional expression
+2. I did a small code practice <Days/Day 18.dart>
