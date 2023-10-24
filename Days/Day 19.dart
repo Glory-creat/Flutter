@@ -49,6 +49,4 @@ void main() {
   String nameToPrint = name?? "Glory";
 
   print(nameToPrint);
-
-  
 }
