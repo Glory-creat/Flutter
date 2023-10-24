@@ -101,3 +101,8 @@ Today, I continued my journey of learning Dart, and I focused on learning condit
 Here are some of the areas I covered:
 1. Today, I learned more about the 'if-else' conditional expression
 2. I did a small code practice <Days/Day 18.dart>
+
+# Day 19 (Conditional expression)
+Today, I continued my journey of learning Dart, and I focused on learning about Null -aware conditinal expressions
+Here are some of the areas I covered:
+1. 

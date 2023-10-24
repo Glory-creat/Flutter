@@ -38,4 +38,17 @@ void main() {
   'Number is less than 10';
 
   print('$number');
+
+  // Null-aware Conditional Expression
+
+  // The null-aware conditional expression is used to handle cases where you want to assign a 
+  // value to a variable only if the value is not null. It takes the form of expr1 ?? expr2, 
+  // where expr1 is the expression that you want to evaluate, and expr2 is the fallback value 
+  // if expr1 is null.
+  String? name; //Assume this variable is Null
+  String nameToPrint = name?? "Glory";
+
+  print(nameToPrint);
+
+  
 }
