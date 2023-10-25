@@ -106,3 +106,8 @@ Here are some of the areas I covered:
 Today, I continued my journey of learning Dart, and I focused on learning about Null -aware conditinal expressions
 Here are some of the areas I covered:
 1. Code practice <Days/Day 19.dart>
+
+# Day 21 (SWITCH and CASE conditional statement)
+Today, I continued my journey of learning Dart, and I focused on learning about SWITCH and CASE conditional statement.
+Here are some of the areas I covered:
+1. I will post the code practice in day 21.
