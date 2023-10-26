@@ -110,4 +110,5 @@ Here are some of the areas I covered:
 # Day 21 (SWITCH and CASE conditional statement)
 Today, I continued my journey of learning Dart, and I focused on learning about SWITCH and CASE conditional statement.
 Here are some of the areas I covered:
-1. I will post the code practice in day 21.
+1. I read about the SWITCH and CASE conditional statement <https://www.geeksforgeeks.org/switch-case-in-dart/>
+2. I will post the code practice in day 21.
