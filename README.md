@@ -118,3 +118,9 @@ Today, I continued my journey of learning Dart, and I focused on learning about 
 Here are some of the areas I covered:
 1. I practiced the 'switch-case' conditional statement.
 2. Code practice <Days/Day 21.dart>
+
+# Day 22 (SWITCH and CASE conditional statement)
+Today, I continued my journey of learning Dart, and I focused on learning about Standard input output.
+Here are some of the areas I covered:
+1. I read about the standard input output from online resources.
+2. Code practice in day 23
