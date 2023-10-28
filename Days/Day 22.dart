@@ -10,10 +10,10 @@ void main() {
 
   print('Enter name:');
   String? name = stdin.readLineSync();
-  print('$name Adaolisa Ejere');
+  print('My name is $name ');
 
   // Integer user input
   print('Enter number:');
   int? number = int.parse(stdin.readLineSync()!);
-  print('$number');
+  print('The number entered is $number');
 }
