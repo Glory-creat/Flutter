@@ -15,5 +15,5 @@ void main() {
   // Integer user input
   print('Enter number:');
   int? number = int.parse(stdin.readLineSync()!);
-  print('The number entered is $number');
+  print('The number is $number');
 }
