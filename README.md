@@ -124,3 +124,11 @@ Today, I continued my journey of learning Dart, and I focused on learning about 
 Here are some of the areas I covered:
 1. I read about the standard input output from online resources.
 2. Code practice in day 23
+
+# Day 23 (User input in dart)
+Today, I continued my journey of learning Dart, and I focused on learning about Standard input output.
+Here are some of the areas I covered:
+1. I still read about the standard input output from online resources.
+2. I was able to diffrentiate between the String user input, int user input and the 
+floating point user input
+3. I wrote a little practice code. <Days/Day 22.dart>
