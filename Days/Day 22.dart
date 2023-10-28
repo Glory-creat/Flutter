@@ -13,7 +13,7 @@ void main() {
   print('$name Adaolisa Ejere');
 
   // Integer user input
-  print('integer input');
+  print('Enter number:');
   int? number = int.parse(stdin.readLineSync()!);
   print('$number');
 }
