@@ -132,3 +132,8 @@ Here are some of the areas I covered:
 2. I was able to diffrentiate between the String user input, int user input and the 
 floating point user input
 3. I wrote a little practice code. <Days/Day 22.dart>
+
+# Day 24 (User input in dart)
+Today, I continued my journey of learning Dart, and I focused on learning about the basics of OOP(Object oriented programming) in dart
+Here are some of the areas I covered:
+1. I learned about the advantages of OOP,and the features of OOP.
