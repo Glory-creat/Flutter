@@ -4,7 +4,6 @@
     // Properties are used to store the data. It is also known as fields or attributes. Functions are used to perform the operations. 
     // It is also known as methods.
 
-  import 'dart:ffi';
 
 class Userprofile {
     // Considering these properties: Age, Name, Profession
@@ -12,7 +11,7 @@ class Userprofile {
     String? name;
     int? age;
     String? profession;
-    Bool? isSingle;
+    bool? isSingle;
 
     void displayinfo() {
       // The displayinfo is a method in class is used to print out value property
