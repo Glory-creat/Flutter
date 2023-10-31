@@ -1,0 +1,10 @@
+void main() {
+    class in dart
+    You can declare a class in dart using the class keyword followed by class name and braces {}.
+    Body of the class consists of properties and functions.
+    Properties are used to store the data. It is also known as fields or attributes. Functions are used to perform the operations. 
+    It is also known as methods.
+    class user_name{
+
+    }
+}
