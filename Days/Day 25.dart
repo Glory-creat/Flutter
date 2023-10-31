@@ -34,6 +34,8 @@ class Userprofile {
     }
   }
 
+  
+
       // Task
     // Create a class Book with three properties: name, author, and prize. Also, create a method called display, which prints out the values of the three properties.
   class Book{
