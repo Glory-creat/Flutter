@@ -65,6 +65,6 @@ void main() {
   bk.author = 'Ebun Enioluwa';
   bk.prize = 30;
 
-  bk.display();
+  bk.display(); //to display information
 
 }
