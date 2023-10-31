@@ -19,7 +19,7 @@ class Userprofile {
       print('Name: $name');
       print('Age: $age');
       print('Profession: $profession');
-      print('Status: $isSingle');
+      print('Single: $isSingle');
     }
   }
 
@@ -34,7 +34,7 @@ class Userprofile {
     }
   }
 
-  
+
 
       // Task
     // Create a class Book with three properties: name, author, and prize. Also, create a method called display, which prints out the values of the three properties.
@@ -45,9 +45,26 @@ class Userprofile {
     int? prize;
 
     void display() {
-      print('name');
-      print('author');
-      print('prize');
+      print('Name: $name');
+      print('Author: $author');
+      print('Prize: ${prize} dollars');
     }
   }
+void main() {
+  Userprofile Up = Userprofile();
+  Up.name = 'Glory Adaolisa';
+  Up.age = 19;
+  Up.profession = 'Becoming';
+  Up.isSingle = true;
 
+  Up.displayinfo();
+
+
+  Book bk = Book();
+  bk.name = 'Dart Practice';
+  bk.author = 'Ebun Enioluwa';
+  bk.prize = 30;
+
+  bk.display();
+
+}
