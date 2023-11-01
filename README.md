@@ -137,3 +137,9 @@ floating point user input
 Today, I continued my journey of learning Dart, and I focused on learning about the basics of OOP(Object oriented programming) in dart
 Here are some of the areas I covered:
 1. I learned about the advantages of OOP,and the features of OOP.
+
+# Day 25 (OOP in dart (Class))
+Today, I continued my journey of learning Dart, and I focused on learning about class in dart
+Here are some of the areas I covered:
+1. I learned about class in dart.
+2. I wrote a few practice code <Days/Day 25.dart>
