@@ -51,6 +51,14 @@ class Userprofile {
     }
   }
 void main() {
+
+  // Declaring Object in dart
+  //Classname object = Classname();
+
+  // Object is a self-contained unit of code and data
+  //Instantiation: The process of creating an object of a class
+
+
   Userprofile Up = Userprofile();
   Up.name = 'Glory Adaolisa';
   Up.age = 19;
