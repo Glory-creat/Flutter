@@ -15,15 +15,15 @@ class Car{
     print('Price: $price');
   }
 
-  // String highPrice(){
-  //   if(price! > 140000){
-  //     print('Price is high');
-  //   }else if(price! <= 140000 && price! < 13000) {
-  //     print('Price is low');
-  //   }else{
-  //     print('Price is normal');
-  //   }
-  // }
+  void highPrice(){
+    if(price! > 140000){
+      print('Price is high');
+    }else if(price! >= 130000 && price! < 14000) {
+      print('Price is low');
+    }else{
+      print('Price is normal');
+    }
+  }
 }
 
 void main() {
@@ -37,10 +37,7 @@ void main() {
 
   car.carProperties();
 
-  Car car2 = Car('Toyota', 'Grey', 6, 140000);
+  Car car2 = Car('Toyota', 'Grey', 6, 10000);
   car2.carProperties();
 
-  // if(car.highPrice()){
-  //   print('Price is high ${car}');
-  // }
 }
