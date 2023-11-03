@@ -144,7 +144,7 @@ Here are some of the areas I covered:
 1. I learned about class in dart.
 2. I wrote a few practice code <Days/Day 25.dart>
 
-#  Day 25 (OOP in dart (Object))
+#  Day 26 (OOP in dart (Object))
 Today, I continued my journey of learning Dart, and I focused on learning about class in dart
 Here are some of the areas I covered:
 1. I learned that objects are self-contained units of codes and data.

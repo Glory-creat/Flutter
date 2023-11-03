@@ -15,15 +15,16 @@ class Car{
     print('Price: $price');
   }
 
-  void highPrice(){
-    if(price! > 140000){
-      print('Price is high');
-    }else if(price! >= 130000 && price! < 14000) {
-      print('Price is low');
-    }else{
-      print('Price is normal');
-    }
-  }
+  // Constructor doesn’t have any return type.
+  // void highPrice(){
+  //   if(price! > 140000){
+  //     print('Price is high');
+  //   }else if(price! >= 130000 && price! < 14000) {
+  //     print('Price is low');
+  //   }else{
+  //     print('Price is normal');
+  //   }
+  // }
 }
 
 void main() {
