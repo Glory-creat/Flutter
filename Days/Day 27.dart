@@ -82,11 +82,31 @@ class Staff{
 
 
 // Constructor With Optional Parameters
-//
+//Here is an example
+// Create a class Patient with three properties name, age, and ward. The class has one constructor. 
+// The constructor is used to initialize the values of the three properties. Also, create an object of 
+// the class Patient called patient. Print the values of the three properties using the object.
+
+class Patient{
+  // properties name, age, and ward
+  String name;
+  int? age;
+  String? ward;
+
+  Patient(this.name,this.ward,[this.age = 30]);
+
+  void display() {
+    print(name);
+    print(ward);
+  }
+}
 
 
 void main() {
   // Staff sff = Staff(name, phone1, phone2, subject);
   Staff stff =Staff('Adaolisa Glory', 08187771333, 08098767889, 'Dart');
   stff.display();
+
+  Patient patient = Patient('Susan', 'Ward 2');
+  patient.display();
 }
