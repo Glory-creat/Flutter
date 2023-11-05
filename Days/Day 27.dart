@@ -90,14 +90,35 @@ class Staff{
 class Patient{
   // properties name, age, and ward
   String name;
-  int? age;
-  String? ward;
+  int age;
+  String ward;
 
   Patient(this.name,this.ward,[this.age = 30]);
 
   void display() {
-    print(name);
-    print(ward);
+    print(this.name);
+    print(this.ward);
+  }
+}
+
+
+
+// In the example below,create a class Chair with two properties: name and color. 
+//Class has one constructor for initializing the all properties values with named parameters. 
+//The Class also contain method display() which is used to display the values of the properties. 
+//Also create an object of the class Chair called chair.
+
+
+class Chair{
+  // properties: name and color.
+  String name;
+  String color;
+
+  Chair(this.name,this.color);
+
+  void display() {
+    // print('Name: ${this.name}');
+    print('This chair is ${this.name}\'s chair,look, her\'s is the ${this.color} chair');
   }
 }
 
@@ -109,4 +130,7 @@ void main() {
 
   Patient patient = Patient('Susan', 'Ward 2');
   patient.display();
+
+  Chair chair = Chair('Ibukun','blue');
+  chair.display();
 }
