@@ -94,6 +94,7 @@ class Patient{
   String ward;
 
   Patient(this.name,this.ward,[this.age = 30]);
+  //this is used to access current class properties
 
   void display() {
     print(this.name);
