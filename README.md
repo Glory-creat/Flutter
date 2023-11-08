@@ -155,3 +155,10 @@ Today, I continued my journey of learning Dart, and I focused on learning about 
 Here are some of the areas I covered:
 1. I learned how to use constructor with my understanding of class and object in dart.
 2. Here is the link to the practice code <Days/Day 27.dart>
+
+# Day 28 (OOP in dart)
+Today, I continued my journey of learning Dart, and I still focused on learning about constructors in dart
+Here are some of the areas I covered:
+1. I learned that you cannot have both default and parameterized constructors at the same time.
+2. Named constructor- There can be as many named constructor as possible within the same class
+3. Here is the link to Day 28 code practice <Days/Day 28.dart>
