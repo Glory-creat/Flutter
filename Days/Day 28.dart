@@ -42,7 +42,15 @@ class Person{
 // Parameterized constructor in dart
 // Parameterized constructor is the constructor that takes parameters.
 
-// class 
+// Syntax 
+class ClassName {
+  // Instance Variables
+  bool? isTrue;
+  String? name;
+  int? number;
+  // Parameterized Constructor
+  ClassName(this.isTrue, this.name, this.number);
+}
 
 void main() {
   // Object 'skirt' of the class 'Skirt'
