@@ -54,5 +54,4 @@ void main() {
 
 
 // Constant constructor in Dart
-
-// khh
+// Constant constructor is a constructor that creates a constant object.
