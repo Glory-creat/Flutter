@@ -55,3 +55,5 @@ void main() {
 
 // Constant constructor in Dart
 // Constant constructor is a constructor that creates a constant object.
+//All properties of the class must be final.
+
