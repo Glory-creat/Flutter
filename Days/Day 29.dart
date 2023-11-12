@@ -55,7 +55,8 @@
 
 // Constant constructor in Dart
 // Constant constructor is a constructor that creates a constant object.
-// All properties of the class must be final.
+// All properties of the class must be final. The constant constructor 
+//improves the performance of the program
 
 // Example from site
 class Point{
@@ -74,6 +75,7 @@ class Stylist {
 
   const Stylist(this.name, this.location, this.age, this.height);
 }
+
 void main() {
   Point point = const Point(30, 45);
   print('The result is ${point.hashCode}');
@@ -81,8 +83,9 @@ void main() {
   //without const
   Point point1 = Point(4, 2);
   print('The result is ${point1.y}');
+  print('${point1.x - point1.y}');
 
-  Stylist style1 = Stylist('Temitope','Ikeja', 22, 6.2);
+  Stylist style1 = const Stylist('Temitope','Ikeja', 22, 6.2);
   print('Stylist one\'s name is ${style1.name}');
 
   Stylist style2 = Stylist('Titi', 'Ikordu', 20, 5.8);
