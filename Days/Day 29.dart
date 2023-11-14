@@ -88,7 +88,7 @@ void main() {
   Stylist style1 = const Stylist('Temitope','Ikeja', 22, 6.2);
   print('Stylist one\'s name is ${style1.name}');
 
-  Stylist style2 = Stylist('Titi', 'Ikordu', 20, 5.8);
+  Stylist style2 = Stylist('Titi', 'Ikorodu', 20, 5.8);
   print('''Stylist two\'s details: 
   Name: ${style2.name}
   Location: ${style2.location}

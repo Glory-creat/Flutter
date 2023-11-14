@@ -162,3 +162,11 @@ Here are some of the areas I covered:
 1. I learned that you cannot have both default and parameterized constructors at the same time.
 2. Named constructor- There can be as many named constructor as possible within the same class
 3. Here is the link to Day 28 code practice <Days/Day 28.dart>
+
+# Day 29 (OOP in dart)
+Today, I continued my journey of learning Dart, and I still focused on learning about constructors in dart
+Here are some of the areas I covered:
+1. I practiced what I learned on day 28
+2. I learned about constant constructors in dart.
+3. I started learning about encapsulation in dart; I'll focus on it on day 29
+4. Here is the link to Day 29 code practice <Days/Day 29.dart>
