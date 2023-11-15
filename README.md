@@ -168,5 +168,5 @@ Today, I continued my journey of learning Dart, and I still focused on learning 
 Here are some of the areas I covered:
 1. I practiced what I learned on day 28
 2. I learned about constant constructors in dart.
-3. I started learning about encapsulation in dart; I'll focus on it on day 29
+3. I started learning about encapsulation in dart; I'll focus on it on day 30
 4. Here is the link to Day 29 code practice <Days/Day 29.dart>
