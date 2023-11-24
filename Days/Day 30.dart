@@ -7,36 +7,57 @@
 // In Dart, which is an object-oriented programming language,
 //encapsulation is achieved through the use of classes.
 
-// Example 1
-class Employee{
-  int? _id;
-  String? _name;
+// // Example 1
+// class Employee{
+//   int? _id;
+//   String? _name;
 
-  // Getter method to access private property
-  int getid() {
-    return _id!;
-  }
+//   // Getter method to access private property
+//   int getid() {
+//     return _id!;
+//   }
   
-  String getname() {
-    return _name!;
-  }
+//   String getname() {
+//     return _name!;
+//   }
 
-  //Setter method
-  void setId(int id){
-    this._id = id;
-  }
+//   //Setter method
+//   void setId(int id){
+//     this._id = id;
+//   }
 
-  void setName(String name) {
-    this._name = name;
-  }
+//   void setName(String name) {
+//     this._name = name;
+//   }
+// }
+
+// void main() {
+//   Employee employee = Employee();
+//   employee.setId(4);
+//   employee.setName('Glory');
+
+//   print('Id: ${employee.getid()}');
+//   print('Name: ${employee.getname()}');
+
+// }
+
+
+// Getters and Setters
+// Getter is used to get the value of a property. It is used to access private properties values
+// Example
+class Person{
+  //Properties of person
+  String? firstName;
+  String? lastName;
+
+  //CONSTRUCTOR
+  Person(this.firstName, this.lastName);
+  
+  //Getter
+  get fullName => "$firstName $lastName";
 }
 
 void main() {
-  Employee employee = Employee();
-  employee.setId(4);
-  employee.setName('Glory');
-
-  print('Id: ${employee.getid()}');
-  print('Name: ${employee.getname()}');
-
+  Person person = Person('Glory', 'Ejere');
+  print('Full Name: ${person.fullName}');
 }
