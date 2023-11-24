@@ -54,10 +54,31 @@ class Person{
   Person(this.firstName, this.lastName);
   
   //Getter
+  // => is called fat arrow
   get fullName => "$firstName $lastName";
 }
+
+// Example2
+
+class Rectangle{
+  //private properties
+  int? _length;
+  int? _weigth;
+
+  //Constructor
+  Rectangle(this._length,this._weigth);
+
+  //Getter
+  int get Area => _length! * _weigth!;
+}
+
+// Setter
 
 void main() {
   Person person = Person('Glory', 'Ejere');
   print('Full Name: ${person.fullName}');
+
+  // Example2
+  Rectangle a = Rectangle(20, 40);
+  print("Area: ${a.Area}");
 }
