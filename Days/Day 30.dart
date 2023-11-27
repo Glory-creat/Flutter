@@ -45,6 +45,7 @@
 // Getters and Setters
 // Getter is used to get the value of a property. It is used to access private properties values
 // Example
+
 class Person{
   //Properties of person
   String? firstName;
@@ -69,7 +70,13 @@ class Rectangle{
   Rectangle(this._length,this._weigth);
 
   //Getter
-  int get Area => _length! * _weigth!;
+  // int get Area => _length! * _weigth!;
+  int get Area{
+    if(_length! * _weigth!  == 400 ) {
+      return 0;
+    }
+    return this._length! * this._weigth!; 
+  }
 }
 
 // Setter
