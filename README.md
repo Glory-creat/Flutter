@@ -170,3 +170,10 @@ Here are some of the areas I covered:
 2. I learned about constant constructors in dart.
 3. I started learning about encapsulation in dart; I'll focus on it on day 30
 4. Here is the link to Day 29 code practice <Days/Day 29.dart>
+
+# Day 30
+Today, I continued my journey of learning Dart, and I still focused on learning about encapsulation
+Here are some of the areas I covered:
+1. I learned about encapsulation and that encapsulation is a mechanism for hiding important and sensitive data from users.
+2. I started learning about getters and setters
+3. Code practice <Days/Day 30.dart>
