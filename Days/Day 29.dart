@@ -72,8 +72,6 @@ class Stylist {
   final String location;
   final int age;
   final double height;
-  
-
   const Stylist(this.name, this.location, this.age, this.height);
 }
 
