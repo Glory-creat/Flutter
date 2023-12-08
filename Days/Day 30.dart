@@ -79,8 +79,6 @@ class Rectangle{
   }
 }
 
-// Setter
-
 void main() {
   Person person = Person('Glory', 'Ejere');
   print('Full Name: ${person.fullName}');
